@@ -1,11 +1,11 @@
-# Hi, I'm Matthew - Uven 👋 
+# Hi, I'm Mateusz - Uven 👋 
 
 ## I'm actually Technical school student with an IT profile
 
 - ✍️ I’m currently learning Javascript
 - 🤝 i'm currently looking for internship
 - 🥅 My 2022 Goal: Learn about React
-- 🧬 My life Goal: Dreaming about become a Web3.0 developer With NEXT.js & Solidity
+- 🧬 My life Goal: I dream of becoming a Web3.0 Dev with NEXT.js & Solidity
 - ⚡ Fun fact: I love playing strategy games
 
 ### Languages and Tools:
