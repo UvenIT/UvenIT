@@ -5,7 +5,7 @@
 - ✍️ I’m currently learning Javascript
 - 🤝 i'm currently looking for internship
 - 🥅 My 2022 Goal: Learn about React
-- 🧬 My life goal: Dreaming about become a Web3.0 developer With NEXT.js & Solidity
+- 🧬 My life Goal: Dreaming about become a Web3.0 developer With NEXT.js & Solidity
 - ⚡ Fun fact: I love playing strategy games
 
 ### Languages and Tools:
