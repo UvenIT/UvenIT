@@ -1,4 +1,4 @@
-# Hi there, I'm Matthew - Uven 👋 
+# Hi, I'm Matthew - Uven 👋 
 
 ## I'm actually Technical school student with an IT profile
 
