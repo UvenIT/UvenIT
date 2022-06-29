@@ -2,8 +2,8 @@
 
 ## I'm actually Technical school student with an IT profile
 
-- ✍️ I’m currently learning Javascript
-- 🤝 i'm currently looking for internship
+- ✍️ Currently learning Javascript
+- 🤝 Currently looking for internship
 - 🥅 My 2022 Goal: Learn about React
 - 🧬 My life Goal: Dream of becoming a Web3.0 Dev with NEXT.js & Solidity
 - ⚡ Fun fact: I love playing strategy games
